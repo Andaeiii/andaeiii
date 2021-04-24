@@ -5,7 +5,10 @@ i am an experienced Senior FullStack Software Developer with over years of exper
 i currently work with **Node(MEAN Stack)**, **Javascript**, **Phyton**, **React**, **Angular**, **PHP**(Laravel & Wordpress)
 
 ### External Links 
-Linked IN::  [https://www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb)
+
+Linked-IN::  [https://www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb)
+
 StackOverflow:: [https://stackoverflow.com/users/2251071/ande-caleb](https://stackoverflow.com/users/2251071/ande-caleb)
+
 UI/UX Porffolio :: [ Previous UI/UX Projects on Google Drive (in-Progress/Completed)](https://drive.google.com/drive/folders/0B8zXLNwB_JDYQ0NrN0ViSE1tWmM?usp=sharing)
 
