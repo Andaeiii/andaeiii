@@ -3,7 +3,7 @@
 i am an experienced Senior FullStack Software Developer with over years of experience in Design aesthetics, Product development and Software Architecture.
 i currently work with **Node(MEAN Stack)**, **Javascript**, **Phyton**, **React**, **Angular**, **PHP**(Laravel & Wordpress).
 
-> Project currently in progress :: http://data.tinkerbizservices.org/
+> Current Project(in-progress) :: http://data.tinkerbizservices.org/  
 
 ### Find me on ~ 
 
