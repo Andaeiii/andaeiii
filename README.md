@@ -1,6 +1,6 @@
 
 ### Hi Everyone  👋
-i am an experienced Senior FullStack Software Developer with over years of experience in Design aesthetics, Product development and Software Architecture.
+i am an Artist turned FullStack Software Developer with years of experience in Design aesthetics, Product development and Software Architecture.
 i currently work with **Node(MEAN Stack)**, **Javascript**, **Phyton**, **React**, **Angular**, **PHP**(Laravel & Wordpress).
 
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
