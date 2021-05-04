@@ -1,7 +1,7 @@
 ### \<Open for="REMOTE POSITIONS"\/\>
 
 A FullStack Software Developer with years of experience in Design aesthetics, Product development and Software Architecture... and also an **Artist(Pencil/Canvas/Graphic)**
-i currently work with **Node(MEAN Stack)**, **JS Frameworks(React / Angular / ThreeJS(3D) / Electron)**, **Phyton(Flask)**, **PHP(Laravel / Wordpress)**, and rely on any of these ~ **NoSQL(MongoDB / GraphQL / Firebase)**, **SQL(PostgreS**QL / MySQL / SQLite / MsSQL)** for my database backend...
+i currently work with **Node(MEAN Stack)**, **JS Frameworks(React / Angular / Electron)**, **Phyton(Flask)**, **PHP(Laravel / Wordpress)**, and rely on any of these ~ **NoSQL(MongoDB / GraphQL / Firebase)**, **SQL(PostgreS**QL / MySQL / SQLite / MsSQL)** for my database backend...
 
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
 
