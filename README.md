@@ -11,4 +11,5 @@ i currently work with **Node(MEAN Stack)**, **JS-SPA Frameworks(React / Angular 
  - UI/UX Porffolio - [Previous UI/UX Projects on Google Drive (in-Progress/Completed)](https://drive.google.com/drive/folders/0B8zXLNwB_JDYQ0NrN0ViSE1tWmM?usp=sharing)
  - Performance Certificates - [From Past Employers](https://drive.google.com/drive/folders/1FljEYdM190fNG38Vu4pTR7fdHe0a_bXa)
  - Language Proficiency [English - 9.1/10](https://media-exp1.licdn.com/dms/image/C4D22AQHhiQSLHcLxHA/feedshare-shrink_1280/0/1619075336109?e=1622073600&v=beta&t=VyPXpySOow3D6YfpwZPAynxGfq-eBlBzVVfdUgPy3gw)
+
 ![](https://komarev.com/ghpvc/?username=andaeiii)
