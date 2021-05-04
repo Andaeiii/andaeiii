@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=andaeiii)
 ### \<Open for="REMOTE POSITIONS"\/\>
 
 A FullStack Software Developer with years of experience in Design aesthetics, Product development and Software Architecture... and also an **Artist(Pencil/Canvas/Graphic)**
