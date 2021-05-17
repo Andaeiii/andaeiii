@@ -1,7 +1,15 @@
 ### \<Open for="REMOTE POSITIONS"\/\>
 
-A FullStack Software Developer with years of experience in Design aesthetics, Product development and Software Architecture... and also an **Artist(Pencil/Canvas/Graphic)**
-i currently work with **Node(MEAN/MERN Stack)**, **JS Frameworks(React / Angular / Electron)**, **Phyton(Flask)**, **PHP(Laravel / Wordpress)**, and rely on any of these ~ **NoSQL(MongoDB / GraphQL / Firebase)**, **SQL(PostgreS**QL / MySQL / SQLite / MsSQL)** for my database backend...
+A FullStack Software Developer and UI/UX expert with years of experience in Design aesthetics, Product development and Software Architecture.. and Web Animations using CSS3++, i love what i do and i believe if you see a pretty girl, you are attracted to her beauty(frontend) before you notice her lapses(functionality)~ but in my case the frontend works just as good as the backend... you get what you see, expect and deserve... i do what i love, and love what i do.. and i'm open to your engagements..
+
+
+## my Stacks are ~ 
+```
+  Javascript ~ ( Node / Express / React / Angular 7 & 8 / ionic / ReactNative / Electron ++)
+  Database(s) ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton DB Engine), 
+  Phyton & Flask-Python (db: SQL-Alchemy), PHP-MySQL (Laravel / Wordpress) ++ ...others, { Three.js, PostgreSQL, SQLite }
+  UI/UX/CSS3/Canvas Animations ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
+```
 
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
 
