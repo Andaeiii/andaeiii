@@ -5,10 +5,10 @@ A FullStack Developer and UI/UX expert with years of experience in Design aesthe
 
 ## my Stacks are ~ 
 ```
-  Javascript ~ ( Node / Express / React / Angular 7 & 8 / ionic / ReactNative / Electron ++)
-  Database(s) ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton DB Engine), 
-  Phyton & Flask-Python (db: SQL-Alchemy), PHP-MySQL (Laravel / Wordpress) ++ ...others, { Three.js, PostgreSQL, SQLite }
-  UI/UX/CSS3/Canvas Animations ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
+  { Javascript Frameworks } - Node / Express / React / Angular 7 & 8 / ionic / ReactNative / Electron ++,
+  { Database Engines }   ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton DB Engine), 
+  { BackEnd Frameworks } :: Phyton & Flask-Python, PHP-MySQL(Laravel / Wordpress)++ 
+  { UI/UX/Canvas Animations } ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
 ```
 
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
