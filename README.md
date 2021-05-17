@@ -7,7 +7,7 @@ A FullStack Developer and UI/UX expert with years of experience in Design aesthe
 ```
   { Javascript Frameworks } - Node / Express / Angular / ionic / React / ReactNative / Electron++,
   { Database Engines } ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton DB Engine), 
-  { BackEnd Frameworks } ~ Phyton & Flask-Python, PHP-MySQL(Laravel / Wordpress)++ 
+  { BackEnd Frameworks } ~ Phyton(Flask-Python), PHP-MySQL(Laravel / Wordpress)++ 
   { UI/UX/CSS3 Animations } ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
 ```
 
