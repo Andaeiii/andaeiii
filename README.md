@@ -1,6 +1,6 @@
 ### \<Open for="REMOTE POSITIONS"\/\>
 
-A FullStack Developer and UI/UX expert with years of experience in Design aesthetics, Product Design and Web Animations using 3rd Party JS/CSS3 Libraries, i love what i do and i believe "You are attracted to the beauty(frontend) in a girl before you notice her lapses(functionality)" ~ but in my case the frontend works just as good as the backend... you get what conceive, project and deserve... i do what i love, i love what i do and i'm open to your engagements..
+A FullStack Developer and UI/UX expert with years of experience in Design aesthetics, Product Design and Web Animations using 3rd Party Libraries, i love what i do and i believe "You are attracted to the beauty(frontend) in a girl before you notice her lapses(functionality)" ~ but in my case the frontend works just as good as the backend... you get what conceive, project and deserve... i do what i love, i love what i do and i'm open to your engagements..
 
 
 #### my Stacks are ~ 
