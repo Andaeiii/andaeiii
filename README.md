@@ -9,7 +9,7 @@ A FullStack/UI/UX Solutions Expert with years of Experience in Product Design/De
   { Database Engines } ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton), 
   { BackEnd Tools } ~ Phyton(Flask-Python), PHP-MySQL(Laravel / Wordpress)++ 
   { UI/UX/CSS3 Animations } ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
-  { Testing } ~ Mocha(JS/React++), PHPUnit(Laravel/PHP)
+  { Testing } ~ Mocha & Chai(JS/React++), PHPUnit(Laravel/PHP)
 ```
 
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
