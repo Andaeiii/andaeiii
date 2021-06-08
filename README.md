@@ -3,14 +3,6 @@
 A FullStack/UI/UX Solutions Expert with years of Experience in Product Design/Development using UP-TO-DATE Tools and resources. "You are FIRST attracted to the beauty(frontend) in a girl before you notice her lapses(in functionality)" ~ but in my case the frontend works just as good as the backend... you get what conceive, project and deserve... i do what i love, i love what i do and i'm open to your engagements..
 
 
-#### my Stacks are ~ 
-```
-  { JS Tools } - Node / Express / Angular / ionic / React / ReactNative / Electron++,
-  { Database Engines } ~ MongoDB, Firebase, GraphQL, SQLite, MySQL, SQL-Alchemy(Phyton), 
-  { BackEnd Tools } ~ Phyton(Flask-Python), PHP-MySQL(Laravel / Wordpress)++ 
-  { UI/UX/CSS3 Animations } ~ Figma / Adobe XD / Photoshop, GSAP, CreateJS & EaselJS
-```
-
 > Current Project(in-progress) :: http://data.tinkerbizservices.org/  
 
 #### Find me on ~ 
