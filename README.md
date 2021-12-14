@@ -1,5 +1,6 @@
-> Current Project(in-progress) :: https://www.exjamnjaw.com/  
-> Current Project(in-progress) :: https://andaeiii.co/    - personal website
+#### Current Project(in-progress) ~ 
+> https://www.exjamnjaw.com/  
+> https://andaeiii.co/    - personal website
 
 #### Find me on ~ 
  - LinkedIN:: [https://www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb) 
