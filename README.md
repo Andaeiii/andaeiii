@@ -7,6 +7,6 @@
  - StackOverflow:: [https://stackoverflow.com/users/2251071/ande-caleb](https://stackoverflow.com/users/2251071/ande-caleb) 
  - Re-Usable Code Snipplets(Gists) :: [https://gist.github.com/andaeiii](https://gist.github.com/andaeiii)
 
-![](https://komarev.com/ghpvc/?username=andaeiii&style=flat-square&color=000000&label=Profile.Views) 
+![](https://komarev.com/ghpvc/?username=andaeiii&style=flat-square&color=000000&label=visits) 
 
 
