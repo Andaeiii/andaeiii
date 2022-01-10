@@ -1,5 +1,4 @@
 #### Current Projects (in-progress) ~ 
-> https://www.exjamnjaw.com/  
 > https://andaeiii.co/    - personal website
 
 #### Find me on ~ 
