@@ -1,5 +1,3 @@
-#### Current Projects (in-progress) ~ 
-> https://andaeiii.co/    - personal website
 
 #### Find me on ~ 
  - LinkedIN:: [https://www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb) 
