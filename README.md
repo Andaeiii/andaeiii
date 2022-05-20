@@ -59,7 +59,7 @@
     
   <tr>
     <th align="left">Laravel</th>
-   <th align="left">ExpressJS</th>
+   <th align="left">Node/ExpressJS</th>
    <th align="left">Flask</th>
   </tr>
   <tr>
