@@ -23,15 +23,16 @@
    <table border="0">
     
   <tr>
-    <td colspan="3" align="left">
-     FrontEnd Skills(s)
+    <td colspan="4" align="left">
+     FrontEnd Skills(s)/
    </td>
     </tr>
     
   <tr>
-    <th align="left">Javascript(ES5/6)</th>
+    <th align="left">JS(ES6&7)</th>
     <th align="left">React++</th>
-   <th align="left">Redux++</th>
+    <th align="left">Redux++</th>
+    <th align="left">GSAP/ThreeJS</th>
   </tr>
   <tr>
     <td align="center">
@@ -42,6 +43,9 @@
     </td>    
     <td align="center">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="Redux++" height="60"/>
+    </td>   
+    <td align="center">
+      <img src="https://ingenuitysoftwarelabs.com/wp-content/uploads/2020/01/three-js-logo.png" alt="Redux++" height="60"/>
     </td>
    </tr> 
 </table>
@@ -52,15 +56,16 @@
    <table border="0">
     
   <tr>
-    <td colspan="3" align="left">
+    <td colspan="4" align="left">
      BackEnd Tech(s)
    </td>
     </tr>
     
   <tr>
     <th align="left">Laravel/PHP</th>
-    <th align="left">PHP-MySQL</th>
+    <th align="left">PHP/MySQL</th>
    <th align="left">ExpressJS</th>
+   <th align="left">Flask</th>
   </tr>
   <tr>
     <td align="center">
@@ -71,6 +76,9 @@
     </td>    
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Node+ExpressJS" height="60"/>
+    </td>   
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python/Flask" height="60"/>
     </td>
    </tr> 
 </table>
