@@ -63,17 +63,13 @@
     
   <tr>
     <th align="left">Laravel/PHP</th>
-    <th align="left">PHP/MySQL</th>
    <th align="left">ExpressJS</th>
    <th align="left">Flask</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"  height="60">
-    </td>
-    <td align="center">
-      <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" alt="PHP/MYSQL"  height="60">
-    </td>    
+    </td>   
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Node+ExpressJS" height="60"/>
     </td>   
