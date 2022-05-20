@@ -30,8 +30,7 @@
     
   <tr>
     <th align="left">JS(ES6&7)</th>
-    <th align="left">React++</th>
-    <th align="left">Redux++</th>
+    <th align="left">React/Redux++</th>
     <th align="left">GSAP/ThreeJS</th>
   </tr>
   <tr>
@@ -40,10 +39,7 @@
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React/Angular++"  height="60">
-    </td>    
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="Redux++" height="60"/>
-    </td>   
+    </td>      
     <td align="center">
       <img src="https://ingenuitysoftwarelabs.com/wp-content/uploads/2020/01/three-js-logo.png" alt="Redux++" height="60"/>
     </td>
@@ -62,7 +58,7 @@
     </tr>
     
   <tr>
-    <th align="left">Laravel/PHP</th>
+    <th align="left">Laravel</th>
    <th align="left">ExpressJS</th>
    <th align="left">Flask</th>
   </tr>
