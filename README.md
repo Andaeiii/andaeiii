@@ -4,10 +4,10 @@
   <td>
    
 #### ..also find me on ~ 
- - Andaeiii.co :: [https://www.andaeiii.co](//andaeiii.co) 
- - LinkedIN:: [https://www.linkedin.com/in/ande-caleb]( //linkedin.com/in/ande-caleb) 
- - StackOverflow:: [https://stackoverflow.com/users/2251071/ande-caleb](//stackoverflow.com/users/2251071/ande-caleb) 
- - Re-Usable Code Snipplets :: [https://gist.github.com/andaeiii](//gist.github.com/andaeiii)
+ - Andaeiii.co :: [www.andaeiii.co](https://www.andaeiii.co) 
+ - LinkedIN :: [www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb) 
+ - StackOverflow :: [stackoverflow.com/users/2251071/ande-caleb](https://www.stackoverflow.com/users/2251071/ande-caleb) 
+ - Re-Usable Code Snipplets :: [gist.github.com/andaeiii](https://gist.github.com/andaeiii)
 
 <p align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=6&layout=compact"><img alt="Andaeiii's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=4&layout=compact&show_icons=true&custom_title=React%20Focused+%2F+Typescript" /></a>
