@@ -30,7 +30,7 @@
     </tr>
     
   <tr>
-    <th align="left">JS(ES6&7)</th>
+    <th align="left">Js(ES6&7)</th>
     <th align="left">React/Redux++</th>
     <th align="left">GSAP/ThreeJS</th>
   </tr>
