@@ -60,7 +60,7 @@
     
   <tr>
     <th align="left">Laravel/PHP</th>
-   <th align="left">Node/ExpressJS</th>
+   <th align="left">NestJS +Express</th>
 <!--    <th align="left">Flask</th> -->
   </tr>
   <tr>
@@ -69,9 +69,11 @@
      <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Laravel"  height="60">
     </td>   
     <td align="center">
-     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node+ExpressJS" height="60"/>
+     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS +ExpressJS" height="60"/>
 <!--     
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS/ExpressJS" height="60"/>
+
+
 </td>   
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python/Flask" height="60"/>
