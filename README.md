@@ -3,7 +3,7 @@
  <tr>
   <td>
    
-#### ..also find me on ~ 
+#### ..also find me on (open for remote ) 
  - Dev.Site :: [www.andaeiii.co](https://www.andaeiii.co) 
  - LinkedIN :: [www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb) 
  - StackOverflow :: [stackoverflow.com/users/2251071/ande-caleb](https://www.stackoverflow.com/users/2251071/ande-caleb) 
