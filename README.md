@@ -43,7 +43,7 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React/Angular++"  height="60">
     </td>      
     <td align="center">
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="ThreeJS/GSAP" height="60"/>
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="ThreeJS/GSAP/CreateJS" height="60"/>
     </td>
    </tr> 
 </table>
