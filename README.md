@@ -5,6 +5,7 @@
    
 #### ..also find me on (open for remote ) 
  - MySite :: [www.andaeiii.co](https://www.andaeiii.co) 
+ - JS Experiments :: [www.andaeiii.co/experiments](https://www.andaeiii.co/experiments) 
  - LinkedIN :: [www.linkedin.com/in/ande-caleb](https://www.linkedin.com/in/ande-caleb) 
  - StackOverflow :: [stackoverflow.com/users/2251071/ande-caleb](https://www.stackoverflow.com/users/2251071/ande-caleb) 
  - Re-Usable Code Snipplets :: [gist.github.com/andaeiii](https://gist.github.com/andaeiii)
