@@ -61,7 +61,7 @@
     
   <tr>
     <td colspan="2" align="left">
-     BackEnd Tech(s)
+     Consuming API's from BackEnd Services including... 
    </td>
     </tr>
     
