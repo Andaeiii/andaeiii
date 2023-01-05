@@ -1,8 +1,4 @@
 
-<table border="0">
- <tr>
-  <td>
-   
  
 #### Dev Stack Overview (open for remote ) ....  
 
@@ -23,75 +19,7 @@
 ![](https://komarev.com/ghpvc/?username=andaeiii&style=flat-square&color=000000&label=Profile+VIEWS)
 
    
-  </td>
-  
-  <td>
-   
-   
-   <table border="0">
-    
-  <tr>
-    <td colspan="4" align="left">
-     FrontEnd Skills(s)/
-   </td>
-    </tr>
-    
-  <tr>
-    <th align="left">Js(ES6&7)</th>
-    <th align="left">React/NextJs++</th>
-    <th align="left">GSAP/ThreeJS</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="Javascript ES5/ES6"  height="60">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React/Angular++"  height="60">
-    </td>      
-    <td align="center">
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="ThreeJS/GSAP/CreateJS" height="60"/>
-    </td>
-   </tr> 
-</table>
-   
-   
-   
-   
-   <table border="0">
-    
-  <tr>
-    <td colspan="2" align="left">
-     Consuming API's from BackEnd Services including... 
-   </td>
-    </tr>
-    
-  <tr>
-    <th align="left">Laravel/PHP</th>
-   <th align="left">NestJS +Express</th>
-<!--    <th align="left">Flask</th> -->
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel"  height="60">
-     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="Laravel"  height="60">
-    </td>   
-    <td align="center">
-     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS +ExpressJS" height="60"/>
-<!--     
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS/ExpressJS" height="60"/>
 
-
-</td>   
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Python/Flask" height="60"/>
-    </td> -->
-   </tr> 
-</table>
-   
-   
-  </td>
- </tr>
- </table>
  
 
 
