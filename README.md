@@ -3,7 +3,7 @@
 #### Dev Stack Overview (open for remote ) ....  
 
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=6&layout=compact"><img alt="Andaeiii's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=4&layout=compact&show_icons=true&custom_title=React(NextJs)%20Focused+%2F+Typescript" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=6&layout=compact"><img alt="Andaeiii's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andaeiii&theme=dark&langs_count=4&layout=compact&show_icons=true&custom_title=React+%2F+Typescript" /></a>
  </p>
  
  #### Also Find me On....  
